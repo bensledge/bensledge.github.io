@@ -45,22 +45,27 @@
       <h1><a href="http://bensledge.com">Ben Sledge</a></h1>
 <p>Rigging and Technical Artist</p>      <nav>
         <ul class="list">
+          <li><a href="http://bensledge.com/pages/ben-sledge.html#ben-sledge">About Me</a></li>
           <li><a href="http://bensledge.com/pages/reel.html#reel">Reel</a></li>
           <li><a href="http://bensledge.com/pages/resume.html#resume">Resume</a></li>
           <li><a href="/category/projects.html#projects">Projects</a></li>
           <li><a href="/tags.html#tags">Tags</a></li>
+          <li><a href="mailto:bensledge3d@gmail.com">Email Me</a></li>
         </ul>
       </nav>
       <ul class="social">
         <li><a class="sc-linkedin" href="https://www.linkedin.com/in/bensledge3d/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         <li><a class="sc-film" href="http://www.imdb.com/name/nm5492561/" target="_blank"><i class="fa fa-film"></i></a></li>
         <li><a class="sc-vimeo" href="https://vimeo.com/bensledge3d" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+        <li><a class="sc-github" href="https://github.com/bensledge" target="_blank"><i class="fa fa-github"></i></a></li>
       </ul>
     </div>
   </aside>
   <main>
     <nav>
       <a href="http://bensledge.com">Home</a>
+      <a href="/archive.html">Archive</a>
+      <a href="/sitemap.xml">Sitemap</a>
       <a href="http://bensledge.com/feeds/all.atom.xml">Atom</a>
     </nav>
 
@@ -81,7 +86,7 @@ Characters</em></a>. The paper
 analyzes motion capture data to create a database of finger motions. A
 motion sequence without finger animation is then used as an input to
 synthesize finger movements based on the data in the database.</p>
-<h2>The Problem</h2>
+<h2 id="the-problem">The Problem</h2>
 <p>Character animation is traditionally produced through time-intensive
 key-frame animation. An animator manually creates a series of poses for
 each individual part of a character, that, when viewed in sequence, give
@@ -100,7 +105,7 @@ previously recorded finger motions to create new, believable hand
 animation. Through their research, they determined the movement of a
 human's wrist can be indicative enough to produce favorable results.
 Check out their paper for the details.</p>
-<h2>The Solution</h2>
+<h2 id="the-solution">The Solution</h2>
 <p><img alt="Wrist movement + motion database = Believable finger animation" src="http://bensledge.com/images/fms1.png" />
 Finger Motion Synthesis Overview</p>
 <p>My implementation pars down Dr. Jörg's solution to it's minimum (mainly
@@ -117,7 +122,7 @@ the finger motion segments back together and attached them to the rest
 of the body.</p>
 <p><img alt="A line graph showing the speed of wrist motions, with lines indicating segmented motion clips." src="http://bensledge.com/images/fms2.png" />
 Wrist speed is graphed in red. The vertical blue lines denote motion segments (the green line indicates the threshold for "interesting motion.</p>
-<h2>Results</h2>
+<h2 id="results">Results</h2>
 <p>The resultant animation contains believable finger animation. It's
 important to note, the goal was never to exactly recreate the
 ground-truth motion, only to synthesize a believable approximation. Jörg
