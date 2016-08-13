@@ -1,0 +1,141 @@
+Title: Resume
+Date: 2014-02-09 13:00
+Author: bensledge3d@gmail.com
+Slug: resume
+Status: published
+
+Ben Sledge, MFA
+===============
+
+Vancouver, BC Canada
+
+Professional History
+--------------------
+
+**Rigging Artist** Rainmaker Entertainment (March 2015 - present)
+Crafted character rigs for characters, props and sets using a
+proprietary, Python based rigging build system. Extended build system
+with custom modules. Created scripts used by animators to increase rig
+functionality. Developed and maintained custom Maya nodes in Python and C++.
+
+**Technical Animation Artist (Mid) / Character FX TD** MPC Vancouver
+(September 2014 - March 2015)
+Designed, implemented and maintained cloth, hair and dynamics systems
+used to create visual effects for feature films. Used nCloth and proprietary
+hair solvers to created digital doubles of actors. Enhanced
+character-to-environment and character-to-character interactions and
+deformations with the use of Maya and proprietary deformers.
+
+**Production Manager / Python Developer** Campus Banner + Design
+(August 2011 - May 2014)
+Supervised a team of 8-10 designers working on the campus of Clemson
+University. Duties included hiring and training new designers, managing
+workflow efficiency and prioritizing projects and tasks to meet client
+deadlines. Designed, developed and maintained a job tracking and invoice
+webapp built on the Python framework Django.
+
+**Rigging Lead / Pipeline Lead / Animator** ROBOREPAIR Short Film (May
+2013 - July 2013)
+Part of the DreamWorks Animation Summer Industry Course at Clemson
+University.
+Designed a full-featured, joint based deformation system for the rigid
+body main character featuring three interchanging arms, and a torso that
+pivots around an arbitrary angle. Wrote scripts and tools to move assets
+and resources between software packages and strengthened the production
+pipeline by extending render-queue management scripts.
+
+**Pipeline Technical Assistant** Clemson University (February 2013 -
+December 2013)
+Worked as part of a team of programmers to develop an automated and
+fluid production pipeline infrastructure. Scripted CineSync and rigging
+work-flows.
+
+**Character TD / Modeler / Animator** "The Water is Always Bluer"
+Short Film (January 2012 - December 2012)
+Modeled, rigged and laid out UVs for the main character and environment
+models and assisted with lighting, character design and story concepts.
+Lead animator on several shots.
+
+Academic History
+----------------
+
+**Clemson University  **
+Clemson, SC (2014)
+Master of Fine Arts Degree in Digital Production Arts
+School of Computing
+
+**East Tennessee State University**
+Johnson City, TN (2010)
+Bachelor of Science Degree in Digital Media, Minor in Computer Science
+Magna Cum Laude
+
+Filmography
+-----------
++ 2017
+    - Unannounced project for Mattel (Rigging)
+    - **Surfs Up 2: Wave Mania (Rigging)**
+    - **Monster Trucks (Character FX)**
++ 2016
+    - **Barbie and Her Sisters in a Puppy Chase (Rigging)**
++ 2015
+    - **Open Season: Scared Silly (Rigging)**
++ 2014
+    - **Night at the Museum 3: Secret of the Tomb (Character FX)**
+        - Short-listed for the Oscar for Visual Effects (2015)
++ 2013
+    - **Robo+Repair (Rigging, Animation, Pipeline)**
+        - SIGGRAPH Dailies (2014)
++ 2012
+    - **The Water is Always Bluer... (Modeling, Rigging Animation)**
+        - Charleston International Film Festival (2013)
+        - Blue Plum Animation Festival (2013)
+        - International Film Festival (2013)
+
+
+Animation & Visual Effects Skills
+---------------------------------
+
+**Character Rigging**
+Experienced in designing character setups using deformers, skeletal
+systems and blend shapes. Able to create animator friendly rigs while
+maintaining a high level of control over deformations.
+
+**Python / C++ / MEL Development**
+Seasoned with Python both in and out of the Maya environment to
+increase productivity and reduce user error with a focus on pipeline
+integration. Experienced with Maya plug-in development using both Python and C++.
+
+**Character Effects**
+Experienced with simulating hair and Maya nCloth systems for digital
+characters. Creates character interactions with dynamics and cloth
+solutions as well as deformation based approaches. Comfortable creating
+cloth and dynamics rigs on a shot and a show basis.
+
+**3D Generalist**
+Skilled in modeling, UV layout, texturing/surfacing, lighting,
+rendering and animation. Possess a fundamental understanding of the
+Maya to Unreal game engine work flow.
+
+**Technologies**
+Operating Systems - Windows, Linux and Mac OS X
+Software - Autodesk Maya & Mudbox, Nuke, Marvelous Designer, CineSync,
+Adobe Photoshop, Illustrator and Premiere
+Programming - Python, MEL Script, C++, git and SVN
+
+Leadership
+----------
+
+SIGGRAPH Conference
+Dailies Presenter (2014), Student Volunteer (2009)
+
+Greenville International Film Festival
+Judge for Emerging Filmmakers Category (2012), Student Volunteer (2012)
+
+ETSU Student ACM SIGGRAPH Chapter
+Treasurer (2009-2010), Webmaster (2007-2009), Secretary (2006-2007)
+
+Honors
+------
+
+Phi Kappa Phi - East Tennessee State University (inducted 2009)
+Epsilon Pi Tau - East Tennessee State University (inducted 2009)
