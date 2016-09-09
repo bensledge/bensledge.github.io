@@ -1,12 +1,12 @@
 Title: The Water is Always Bluer
 Date: 2012-12-13 17:07
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Projects
 Tags: Maya, rigging
 Slug: the-water-is-always-bluer
 Status: published
 
-<iframe src="//player.vimeo.com/video/87529289" height="361" width="642" allowfullscreen frameborder="0"></iframe>
+{% vimeo 87529289 642 361 %}
 
 "The Water is Always Bluer" is an animated short film about a rubber
 duck bored with his life in the bathtub. When he gets his chance to
@@ -43,9 +43,10 @@ The film was well received at regional animated short film festivals and
 we co-opened the 2013 [Greenville International Film
 Festival](http://www.gviff.org/) with Fire on the Water. [Karen
 Stritzinger](http://karenstritz.com/), [Kacey
-Coley](http://kaceycoley.com/), Zhaoxin Ye and Yujie Shu were awesome to
-work with.
+Coley](http://kaceycoley.com/), [Zhaoxin Ye](http://zhaoxiny.com/)
+and Yujie Shu were awesome to work with.
 
-![Rubber duck in a swimming pool in this animated short]({filename}/images/rubberDucky.png)
+{% img {filename}/images/rubberDucky.png 500 Rubber ducky in a swimming pool in
+this animated short %}<br />
 The Water is Always Bluer in the other tub for the squeekable rubber
 duck in this animated short.

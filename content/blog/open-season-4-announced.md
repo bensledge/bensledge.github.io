@@ -1,13 +1,14 @@
 Title: Sony Announces Open Season: Scared Silly
 Date: 2015-06-10 19:42
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Projects
 Tags: Rainmaker, video
 Slug: open-season-4-announced
 Status: published
 
-![Open Season: Scared Silly]({filename}/images/os4.jpg)
-Elliot and Boog from Open Season: Scared Silly
+{% img {filename}/images/os4.jpg 500 Elliot and Boog from Open Season: Scared
+Silly %}<br />
+_Elliot and Boog from Open Season: Scared Silly_
 
 Today, Sony Pictures Animation officially announced the fourth
 installment in the popular Open Season franchise, titled "Open Season:

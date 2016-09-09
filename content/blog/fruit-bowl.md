@@ -1,6 +1,6 @@
 Title: Fruit Bowl
 Date: 2013-04-05 13:27
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: 3D Art
 Tags: lighting, Maya, rendering, surfacing
 Slug: fruit-bowl

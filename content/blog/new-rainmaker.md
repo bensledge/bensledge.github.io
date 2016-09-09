@@ -1,13 +1,14 @@
 Title: Rainmaker
 Date: 2015-03-09 23:47
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Updates
 Tags: Rainmaker
 Slug: new-rainmaker
 Status: published
 
-[![Rainmaker Logo]({filename}/images/rainmakerlogo.png)](http://rainmaker.com)
-Rainmaker Entertainment: Where worlds are created.
+[{% img {filename}/images/rainmakerlogo.png 300 Rainmaker Entertainment: Where
+worlds are created %}](http://rainmaker.com)<br />
+_Rainmaker Entertainment: Where worlds are created._
 
 After a few months at MPC Vancouver, it was time to move on and find a
 new home in the animation/computer graphics industry. A new home that

@@ -1,6 +1,6 @@
 Title: Night at the Museum: Secret of the Tomb
 Date: 2014-12-19 23:53
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Projects
 Tags: cloth, MPC, film
 Slug: night-museum-secret-tomb
@@ -15,4 +15,4 @@ know first hand the amount of effort that went into every shot. Check
 out the trailer below (and watch for the costume I helped create around
 1:09).
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/i0vTJeYLRnA?t=1m9s" frameborder="0" allowfullscreen></iframe>
+{% youtube i0vTJeYLRnA?t=1m9s 853 480 %}

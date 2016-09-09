@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bensledge.com/</loc>
-<lastmod>2016-08-13T13:08:17-00:00</lastmod>
+<lastmod>2016-09-09T00:17:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bensledge.com/archives.html</loc>
-<lastmod>2016-08-13T13:08:17-00:00</lastmod>
+<lastmod>2016-09-09T00:17:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bensledge.com/tags.html</loc>
-<lastmod>2016-08-13T13:08:17-00:00</lastmod>
+<lastmod>2016-09-09T00:17:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://bensledge.com/categories.html</loc>
-<lastmod>2016-08-13T13:08:17-00:00</lastmod>
+<lastmod>2016-09-09T00:17:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://bensledge.com/pages/reel.html</loc>
+<loc>http://bensledge.com/</loc>
 <lastmod>2014-02-09T12:59:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://bensledge.com/pages/resume.html</loc>
-<lastmod>2014-02-09T13:00:00-08:00</lastmod>
+<lastmod>2016-09-09T01:00:00-07:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -230,13 +230,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://bensledge.com/author/ben-sledge.html</loc>
 <lastmod>2015-12-01T13:41:00-08:12</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://bensledge.com/author/bensledge3dgmailcom.html</loc>
-<lastmod>2015-06-10T19:42:00-08:12</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

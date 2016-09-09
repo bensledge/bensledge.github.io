@@ -1,6 +1,6 @@
 Title: Finger Motion Synthesis
 Date: 2015-06-29 23:05
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Projects
 Slug: finger-motion-synthesis
 Status: draft

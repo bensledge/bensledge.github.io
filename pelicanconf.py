@@ -31,11 +31,13 @@ SITETITLE = 'Ben Sledge'
 SITESUBTITLE = 'Rigging and Technical Artist'
 COPYRIGHT_YEAR = '2010 - 2016'
 MAIN_MENU = True
-MENUITEMS = (('Archive', '/archive.html'),
+MENUITEMS = (('Archive', '/archives.html'),
              ('Sitemap', '/sitemap.xml'),)
-LINKS = (('Projects', '/category/projects.html#projects'),
-         ('Tags', '/tags.html#tags'),
+LINKS = (('Blog', '/blog.html#blog'),
+         # ('Projects', '/category/projects.html#projects'),
          ('Email Me', 'mailto:bensledge3d@gmail.com'),)
+
+INDEX_SAVE_AS = 'blog.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -61,4 +63,4 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/bensledge3d/'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

@@ -1,13 +1,14 @@
 Title: Utah Teapot
 Date: 2013-04-26 14:16
-Author: bensledge3d@gmail.com
+Author: Ben Sledge
 Category: Projects
 Tags: C++, OpenGL
 Slug: utah-teapot
 Status: published
 
-![OpenGL / GLSL Render of the Utah Teapot]({filename}/images/teapot.png)
-##OpenGL / GLSL Render of the Utah Teapot.
+{% img {filename}/images/teapot.png 500 OpenGL / GLSL Render of the Utah Teapot
+%}<br />
+_OpenGL / GLSL Render of the Utah Teapot._
 
 I worked with a team of three other students to create an OpenGL render
 of the Utah Teapot. We implemented a shader in OGSL that made use of
