@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Ben Sledge | 3D Technical Artist</title><link href="http://bensledge.com/" rel="alternate"></link><link href="http://bensledge.com/feeds/updates.atom.xml" rel="self"></link><id>http://bensledge.com/</id><updated>2015-03-09T23:47:00-07:00</updated><entry><title>Rainmaker</title><link href="http://bensledge.com/new-rainmaker.html" rel="alternate"></link><published>2015-03-09T23:47:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2015-03-09:new-rainmaker.html</id><summary type="html">&lt;p&gt;&lt;a href="http://rainmaker.com"&gt;&lt;img alt="Rainmaker Logo" src="http://bensledge.com/images/rainmakerlogo.png" /&gt;&lt;/a&gt;
-Rainmaker Entertainment: Where worlds are created.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Ben Sledge | 3D Technical Artist</title><link href="http://bensledge.com/" rel="alternate"></link><link href="http://bensledge.com/feeds/updates.atom.xml" rel="self"></link><id>http://bensledge.com/</id><updated>2015-03-09T23:47:00-07:00</updated><entry><title>Rainmaker</title><link href="http://bensledge.com/new-rainmaker.html" rel="alternate"></link><published>2015-03-09T23:47:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2015-03-09:new-rainmaker.html</id><summary type="html">&lt;p&gt;&lt;a href="http://rainmaker.com"&gt;&lt;img width="300" alt="Rainmaker Entertainment: Where" title="Rainmaker Entertainment: Where" src="http://bensledge.com/images/rainmakerlogo.png"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Rainmaker Entertainment: Where worlds are created.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;After a few months at MPC Vancouver, it was time to move on and find a
 new home in the animation/computer graphics industry. A new home that
 happens to be in the crazy talented rig department at &lt;a href="http://rainmaker.com"&gt;Rainmaker
@@ -12,21 +12,22 @@ computer generated TV show
 worked on everything from the Beast Wars show to the Barbie DVDs.
 They're currently working on the 23rd installment of the Barbie
 franchise for Mattel, a new Bob the Builder TV show and a project for
-Sony Animation.&lt;/p&gt;</summary><category term="Rainmaker"></category></entry><entry><title>MPC Vancouver</title><link href="http://bensledge.com/mpc-vancouver.html" rel="alternate"></link><published>2014-09-01T22:21:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2014-09-01:mpc-vancouver.html</id><summary type="html">&lt;p&gt;[&lt;img alt="Moving Picture Company Logo" src="http://bensledge.com/images/MPC_Wordmark_PMS_812_RGB.jpg" /&gt;(http://moving-picture.com)
-I am very excited to join the film Technical Animation team at MPC
-Vancouver. MPC is a London based post production house with offices in
-London, New York, Montreal, Vancouver, LA and Bangladore. Their work
-includes visual effects for both the advertising and the film industry,
-with notable work on Life of Pi, Man of Steal and Guardians of the
-Galaxy. The Tech Anim department oversees character effects (hair and
+Sony Animation.&lt;/p&gt;</summary><category term="Rainmaker"></category></entry><entry><title>MPC Vancouver</title><link href="http://bensledge.com/mpc-vancouver.html" rel="alternate"></link><published>2014-09-01T22:21:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2014-09-01:mpc-vancouver.html</id><summary type="html">&lt;p&gt;&lt;a href="http://moving-picture.com"&gt;&lt;img width="300" alt="Moving Picture Company" title="Moving Picture Company" src="http://bensledge.com/images/MPC_Wordmark_PMS_812_RGB.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am very excited to join the film Technical Animation team at &lt;a href="http://moving-picture.com"&gt;MPC
+Vancouver&lt;/a&gt;. MPC is a London based post
+production house with offices in London, New York, Montreal,
+Vancouver, LA and Bangladore. Their work includes visual effects
+for both the advertising and the film industry, with notable work
+on Life of Pi, Man of Steal and Guardians of the Galaxy.
+The Tech Anim department oversees character effects (hair and
 cloth simulations) and shot-by-shot character specific deformations
-(skin and environment interactions).&lt;/p&gt;</summary><category term="MPC"></category></entry><entry><title>SIGGRAPH Dailies</title><link href="http://bensledge.com/siggraph-dailies.html" rel="alternate"></link><published>2014-04-24T14:30:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2014-04-24:siggraph-dailies.html</id><summary type="html">&lt;p&gt;&lt;a href="http://s2014.siggraph.org"&gt;&lt;img alt="SIGGRAPH 2014 Logo" src="http://bensledge.com/images/S14_Logo_C.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+(skin and environment interactions).&lt;/p&gt;</summary><category term="MPC"></category></entry><entry><title>SIGGRAPH Dailies</title><link href="http://bensledge.com/siggraph-dailies.html" rel="alternate"></link><published>2014-04-24T14:30:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2014-04-24:siggraph-dailies.html</id><summary type="html">&lt;p&gt;&lt;a href="http://s2014.siggraph.org"&gt;&lt;img width="300" alt="SIGGRAPH 2014 Logo" title="SIGGRAPH 2014 Logo" src="http://bensledge.com/images/S14_Logo_C.png"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We just received official word the film we worked on over the summer at Clemson University with
-DreamWorks Animation 
-(&lt;a href="http://bensledge3d.com/portfolio/roborepair/" title="ROBO+REPAIR"&gt;ROBO+REPAIR&lt;/a&gt;)
+DreamWorks Animation
+(&lt;a href="/roborepair.html" title="ROBO+REPAIR"&gt;ROBO+REPAIR&lt;/a&gt;)
 and the film the other team worked on
 (&lt;a href="http://vimeo.com/87516077"&gt;QA-ARM-A&lt;/a&gt;) were both accepted into the
 &lt;a href="http://s2014.siggraph.org/attendees/dailies"&gt;2014 SIGGRAPH Dailies&lt;/a&gt;
-program. It is an honour to have our work shown as part of the international 
+program. It is an honour to have our work shown as part of the international
 conference in Vancouver in August.&lt;/p&gt;
 &lt;p&gt;Way to go Team Jarvis and Team Megazord!&lt;/p&gt;</summary><category term="SIGGRAPH"></category></entry></feed>

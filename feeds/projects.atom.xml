@@ -10,8 +10,8 @@ for the DVD and Bluray in Fall 2016.&lt;/p&gt;
                     frameborder='0' webkitAllowFullScreen mozallowfullscreen
                     allowFullScreen&gt;
                 &lt;/iframe&gt;
-            &lt;/div&gt;&lt;/p&gt;</summary><category term="Rainmaker"></category><category term="video"></category></entry><entry><title>Sony Announces Open Season: Scared Silly</title><link href="http://bensledge.com/open-season-4-announced.html" rel="alternate"></link><published>2015-06-10T19:42:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2015-06-10:open-season-4-announced.html</id><summary type="html">&lt;p&gt;&lt;img alt="Open Season: Scared Silly" src="http://bensledge.com/images/os4.jpg" /&gt;
-Elliot and Boog from Open Season: Scared Silly&lt;/p&gt;
+            &lt;/div&gt;&lt;/p&gt;</summary><category term="Rainmaker"></category><category term="video"></category></entry><entry><title>Sony Announces Open Season: Scared Silly</title><link href="http://bensledge.com/open-season-4-announced.html" rel="alternate"></link><published>2015-06-10T19:42:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2015-06-10:open-season-4-announced.html</id><summary type="html">&lt;p&gt;&lt;img width="500" alt="Elliot and Boog from Open Season: Scared" title="Elliot and Boog from Open Season: Scared" src="http://bensledge.com/images/os4.jpg"&gt;&lt;br /&gt;
+&lt;em&gt;Elliot and Boog from Open Season: Scared Silly&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Today, Sony Pictures Animation officially announced the fourth
 installment in the popular Open Season franchise, titled "Open Season:
 Scared Silly." Rainmaker is the animation facility for the show, and
@@ -19,7 +19,7 @@ we've been hard at work getting everything looking awesome. The film is
 slated for a Spring 2016 release. For more information on this Open
 Season, and for an interview with director David Feiss, &lt;a href="http://blogs.indiewire.com/animationscoop/sony-pictures-animation-sets-2016-release-for-dave-feiss-open-season-scared-silly-20150610"&gt;check out this
 article from the Animation Scoop
-blog&lt;/a&gt;.&lt;/p&gt;</summary><category term="Rainmaker"></category><category term="video"></category></entry><entry><title>Night at the Museum: Secret of the Tomb</title><link href="http://bensledge.com/night-museum-secret-tomb.html" rel="alternate"></link><published>2014-12-19T23:53:00-08:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2014-12-19:night-museum-secret-tomb.html</id><summary type="html">&lt;p&gt;A lot of hard work and crazy hours went in to creating the visual effect
+blog&lt;/a&gt;.&lt;/p&gt;</summary><category term="Rainmaker"></category><category term="video"></category></entry><entry><title>Night at the Museum: Secret of the Tomb</title><link href="http://bensledge.com/night-museum-secret-tomb.html" rel="alternate"></link><published>2014-12-19T23:53:00-08:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2014-12-19:night-museum-secret-tomb.html</id><summary type="html">&lt;p&gt;A lot of hard work and crazy hours went in to creating the visual effect
 for Night at the Museum: Secret of the Tomb. It's no surprise the film
 &lt;a href="http://www.oscars.org/news/10-contenders-remain-vfx-oscarr-race-0"&gt;made the short-list for the 2014 Oscar for Visual
 Effects&lt;/a&gt;.
@@ -27,7 +27,13 @@ I was lucky enough to spend a short amount of time on the show, and I
 know first hand the amount of effort that went into every shot. Check
 out the trailer below (and watch for the costume I helped create around
 1:09).&lt;/p&gt;
-&lt;iframe width="853" height="480" src="http://www.youtube.com/embed/i0vTJeYLRnA?t=1m9s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="cloth"></category><category term="MPC"></category><category term="film"></category></entry><entry><title>WIBO: Web Invoice Billing Organizer</title><link href="http://bensledge.com/wibo.html" rel="alternate"></link><published>2014-04-22T21:30:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2014-04-22:wibo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Wibo&lt;/strong&gt; was developed to be the ultimate print-shop job tracking and
+&lt;p&gt;&lt;div class="videobox"&gt;
+                &lt;iframe width="853" height="480"
+                    src='https://www.youtube.com/embed/i0vTJeYLRnA?t=1m9s'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/div&gt;&lt;/p&gt;</summary><category term="cloth"></category><category term="MPC"></category><category term="film"></category></entry><entry><title>WIBO: Web Invoice Billing Organizer</title><link href="http://bensledge.com/wibo.html" rel="alternate"></link><published>2014-04-22T21:30:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2014-04-22:wibo.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Wibo&lt;/strong&gt; was developed to be the ultimate print-shop job tracking and
 invoicing system. It combines kanban based ideas and advanced reporting
 to help managers and designers manage workloads and monitor the progress
 of an entire team.&lt;/p&gt;
@@ -45,25 +51,29 @@ of an entire team.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Agregated Reporting:&lt;/strong&gt; A Python based reporting system allows an
     unlimited varriaty of views in to production and cost data.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="Wibo: Welcome Page" src="http://bensledge.com/images/wibo_welcome.png" /&gt;
-&lt;img alt="Wibo: Job Queue" src="http://bensledge.com/images/wibo_jobqueue.png" /&gt;
-&lt;img alt="Wibo: New Job Page" src="http://bensledge.com/images/wibo_newjob.png" /&gt;
-&lt;img alt="Wibo: Invoice List" src="http://bensledge.com/images/wibo_invoices.png" /&gt;
-&lt;img alt="Wibo: Job Invoice" src="http://bensledge.com/images/wibo_invoice.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="400" alt="Wibo: Job Queue" title="Wibo: Job Queue" src="http://bensledge.com/images/wibo_jobqueue.png"&gt;
+&lt;img width="400" alt="Wibo: New Job Page" title="Wibo: New Job Page" src="http://bensledge.com/images/wibo_newjob.png"&gt;&lt;br /&gt;
+&lt;img width="400" alt="Wibo: Invoice List" title="Wibo: Invoice List" src="http://bensledge.com/images/wibo_invoices.png"&gt;
+&lt;img width="400" alt="Wibo: Job Invoice" title="Wibo: Job Invoice" src="http://bensledge.com/images/wibo_invoice.png"&gt;&lt;/p&gt;
 &lt;h2 id="technology"&gt;Technology&lt;/h2&gt;
 &lt;p&gt;Wibo is built on the Django framework for Python web development and is
 accessed directly through a browser. On the front end, it uses Twitter's
 Bootstap to create a familiar and responsive interface for users (that
 works great on both desktops and mobile devices).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Wibo: Mobile Job Page" src="http://bensledge.com/images/wibo_mobile_job.png" /&gt;
-&lt;img alt="Wibo: Mobile Menu" src="http://bensledge.com/images/wibo_mobile_menu.png" /&gt;
-&lt;img alt="Wibo: Mobile Frequent Jobs Page" src="http://bensledge.com/images/wibo_mobile_frequentjobs.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width="200" alt="Wibo: Mobile Job Page" title="Wibo: Mobile Job Page" src="http://bensledge.com/images/wibo_mobile_job.png"&gt;
+&lt;img width="200" alt="Wibo: Mobile Menu" title="Wibo: Mobile Menu" src="http://bensledge.com/images/wibo_mobile_menu.png"&gt;
+&lt;img width="200" alt="Wibo: Mobile Frequent Jobs Page" title="Wibo: Mobile Frequent Jobs Page" src="http://bensledge.com/images/wibo_mobile_frequentjobs.png"&gt;&lt;/p&gt;
 &lt;p&gt;I was the lead developer on the project from October 2012 until I
 graduated from Clemson University in May 2014. Active development and
 maintenance have been taken over by another developer. The current
 source code can be viewed on &lt;a href="https://bitbucket.org/cbplusd/wibo/"&gt;Campus Banner + Design's BitBucket
-page&lt;/a&gt;.&lt;/p&gt;</summary><category term="django"></category><category term="python"></category></entry><entry><title>ROBO+REPAIR</title><link href="http://bensledge.com/roborepair.html" rel="alternate"></link><published>2013-07-17T20:18:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2013-07-17:roborepair.html</id><summary type="html">&lt;iframe src="//player.vimeo.com/video/87516078" width="642" height="273" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
-
+page&lt;/a&gt;.&lt;/p&gt;</summary><category term="django"></category><category term="python"></category></entry><entry><title>ROBO+REPAIR</title><link href="http://bensledge.com/roborepair.html" rel="alternate"></link><published>2013-07-17T20:18:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2013-07-17:roborepair.html</id><summary type="html">&lt;p&gt;&lt;div class="videobox"&gt;
+                &lt;iframe
+                    src="//player.vimeo.com/video/87516078?title=0&amp;amp;byline=0&amp;amp;portrait=0"
+                    width="642" height="273" frameborder="0"
+                    webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;ROBO+REPAIR is a 15 second animated short completed as part of the
 DreamWorks Animation Summer Industry Course at Clemson University. I was
 on a team of five students who wrote and produced a short film about a
@@ -77,17 +87,25 @@ textures not showing up in renders).&lt;/p&gt;
 robot has a torso rocker control with an arbitrary pivot, a double knee
 and full fk/ik switching on it's arms and legs (did I mention it has
 four arms?).&lt;/p&gt;
-&lt;p&gt;The incredably talented Team Jarvis also included &lt;a href="http://www.alexbeaty.com/"&gt;Alex Beaty&lt;/a&gt; (director, layout, animation), &lt;a href="https://mmorlandportfolio.wordpress.com/"&gt;Mandy Morland&lt;/a&gt;
- (FX, modeling, motion graphics), &lt;a href="https://zhaoxiny.com/"&gt;Zhaoxin Ye&lt;/a&gt; (modeling, surfacing, lighting) and &lt;a href="https://vimeo.com/user30194358"&gt;Ashley Anderson&lt;/a&gt; (design, surfacing, lighting).&lt;/p&gt;
-&lt;p&gt;ROBO+REPAIR was accepted into the 2014 SIGGRAPH Dailes.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://s2014.siggraph.org"&gt;&lt;img alt="SIGGRAPH 2014 Logo" src="http://bensledge.com/images/S14_Logo_C.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="Maya"></category><category term="rigging"></category></entry><entry><title>Utah Teapot</title><link href="http://bensledge.com/utah-teapot.html" rel="alternate"></link><published>2013-04-26T14:16:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2013-04-26:utah-teapot.html</id><summary type="html">&lt;p&gt;&lt;img alt="OpenGL / GLSL Render of the Utah Teapot" src="http://bensledge.com/images/teapot.png" /&gt;&lt;/p&gt;
-&lt;h2 id="opengl-glsl-render-of-the-utah-teapot"&gt;OpenGL / GLSL Render of the Utah Teapot.&lt;/h2&gt;
+&lt;p&gt;The incredably talented Team Jarvis also included
+&lt;a href="http://www.alexbeaty.com/"&gt;Alex Beaty&lt;/a&gt; (director, layout, animation),
+&lt;a href="https://mmorlandportfolio.wordpress.com/"&gt;Mandy Morland&lt;/a&gt; (FX, modeling, motion graphics),
+&lt;a href="https://zhaoxiny.com/"&gt;Zhaoxin Ye&lt;/a&gt; (modeling, surfacing, lighting) and
+&lt;a href="https://vimeo.com/user30194358"&gt;Ashley Anderson&lt;/a&gt; (design, surfacing, lighting).&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://s2014.siggraph.org"&gt;&lt;img width="300" alt="SIGGRAPH 2014 Logo" title="SIGGRAPH 2014 Logo" src="http://bensledge.com/images/S14_Logo_C.png"&gt;&lt;/a&gt;&lt;br /&gt;
+ROBO+REPAIR was accepted into the 2014 SIGGRAPH Dailes.&lt;/p&gt;</summary><category term="Maya"></category><category term="rigging"></category></entry><entry><title>Utah Teapot</title><link href="http://bensledge.com/utah-teapot.html" rel="alternate"></link><published>2013-04-26T14:16:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2013-04-26:utah-teapot.html</id><summary type="html">&lt;p&gt;&lt;img width="500" alt="OpenGL / GLSL Render of the Utah Teapot" title="OpenGL / GLSL Render of the Utah Teapot" src="http://bensledge.com/images/teapot.png"&gt;&lt;br /&gt;
+&lt;em&gt;OpenGL / GLSL Render of the Utah Teapot.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I worked with a team of three other students to create an OpenGL render
 of the Utah Teapot. We implemented a shader in OGSL that made use of
 painted texture, bump and specular maps. My responsibilities included
 writing code to calculate and store face normals and the generation of
-bump maps.&lt;/p&gt;</summary><category term="C++"></category><category term="OpenGL"></category></entry><entry><title>The Water is Always Bluer</title><link href="http://bensledge.com/the-water-is-always-bluer.html" rel="alternate"></link><published>2012-12-13T17:07:00-08:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2012-12-13:the-water-is-always-bluer.html</id><summary type="html">&lt;iframe src="//player.vimeo.com/video/87529289" height="361" width="642" allowfullscreen frameborder="0"&gt;&lt;/iframe&gt;
-
+bump maps.&lt;/p&gt;</summary><category term="C++"></category><category term="OpenGL"></category></entry><entry><title>The Water is Always Bluer</title><link href="http://bensledge.com/the-water-is-always-bluer.html" rel="alternate"></link><published>2012-12-13T17:07:00-08:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2012-12-13:the-water-is-always-bluer.html</id><summary type="html">&lt;p&gt;&lt;div class="videobox"&gt;
+                &lt;iframe
+                    src="//player.vimeo.com/video/87529289?title=0&amp;amp;byline=0&amp;amp;portrait=0"
+                    width="642" height="361" frameborder="0"
+                    webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;"The Water is Always Bluer" is an animated short film about a rubber
 duck bored with his life in the bathtub. When he gets his chance to
 escape, he realizes maybe his life wasn't so bad after all. "The Water
@@ -119,15 +137,21 @@ overall brightness of the shots to underscore the ducks returning hope.&lt;/p&gt
 we co-opened the 2013 &lt;a href="http://www.gviff.org/"&gt;Greenville International Film
 Festival&lt;/a&gt; with Fire on the Water. &lt;a href="http://karenstritz.com/"&gt;Karen
 Stritzinger&lt;/a&gt;, &lt;a href="http://kaceycoley.com/"&gt;Kacey
-Coley&lt;/a&gt;, Zhaoxin Ye and Yujie Shu were awesome to
-work with.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Rubber duck in a swimming pool in this animated short" src="http://bensledge.com/images/rubberDucky.png" /&gt;
+Coley&lt;/a&gt;, &lt;a href="http://zhaoxiny.com/"&gt;Zhaoxin Ye&lt;/a&gt;
+and Yujie Shu were awesome to work with.&lt;/p&gt;
+&lt;p&gt;&lt;img width="500" alt="Rubber ducky in a swimming pool in" title="Rubber ducky in a swimming pool in" src="http://bensledge.com/images/rubberDucky.png"&gt;&lt;br /&gt;
 The Water is Always Bluer in the other tub for the squeekable rubber
-duck in this animated short.&lt;/p&gt;</summary><category term="Maya"></category><category term="rigging"></category></entry><entry><title>Remnant: Angle Wings</title><link href="http://bensledge.com/remnant-angle-wings.html" rel="alternate"></link><published>2010-10-28T14:11:00-07:00</published><author><name>bensledge3d@gmail.com</name></author><id>tag:bensledge.com,2010-10-28:remnant-angle-wings.html</id><summary type="html">&lt;p&gt;&lt;img alt="Maya nCloth wings" src="http://bensledge.com/images/wing-01.jpg" /&gt;&lt;/p&gt;
-&lt;h2 id="remnant-wing-rigged-in-maya-using-ncloth"&gt;Remnant: Wing rigged in Maya using nCloth.&lt;/h2&gt;
+duck in this animated short.&lt;/p&gt;</summary><category term="Maya"></category><category term="rigging"></category></entry><entry><title>Remnant: Angle Wings</title><link href="http://bensledge.com/remnant-angle-wings.html" rel="alternate"></link><published>2010-10-28T14:11:00-07:00</published><author><name>Ben Sledge</name></author><id>tag:bensledge.com,2010-10-28:remnant-angle-wings.html</id><summary type="html">&lt;p&gt;&lt;img width="500" alt="Maya nCloth wings" title="Maya nCloth wings" src="http://bensledge.com/images/wing-01.jpg"&gt;&lt;br /&gt;
+&lt;em&gt;Remnant: Wing rigged in Maya using nCloth.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This Maya nCloth rig was created to help artists pose angle wings for
-&lt;a href="http://www.matthewvia.com/"&gt;Matt Via&lt;/a&gt;'s game project "Remnant." Using a combination of cloth, joints
-and painted weight maps, I created a prop rig used to animate these
-larger-than-life wings. The gravity, mass and input attract could be
-tuned to achieve the desired look.  &lt;/p&gt;
-&lt;iframe width="853" height="480" src="//www.youtube.com/embed/Cnd4sCGZb2o?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="cloth"></category><category term="Maya"></category><category term="rigging"></category></entry></feed>
+&lt;a href="http://www.matthewvia.com/"&gt;Matt Via&lt;/a&gt;'s game project "Remnant."
+Using a combination of cloth, joints and painted weight maps,
+I created a prop rig used to animate these larger-than-life wings.
+The gravity, mass and input attract could be tuned to achieve the desired look.&lt;/p&gt;
+&lt;p&gt;&lt;div class="videobox"&gt;
+                &lt;iframe width="853" height="480"
+                    src='https://www.youtube.com/embed/Cnd4sCGZb2o'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/div&gt;&lt;/p&gt;</summary><category term="cloth"></category><category term="Maya"></category><category term="rigging"></category></entry></feed>
