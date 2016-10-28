@@ -1,5 +1,5 @@
 Title: Resume
-Date: 2016-09-09 1:00
+Date: 2016-10-28 1:00
 Author: bensledge3d@gmail.com
 Slug: resume
 Status: published
@@ -17,13 +17,13 @@ _Rainmaker Entertainment (March 2015 - present)_<br />
 Crafted character rigs for characters, props and sets using a
 proprietary, Python based rigging build system. Extended build system
 with custom modules. Created scripts used by animators to increase rig
-functionality. Developed and maintained custom Maya nodes in Python and C++.
+functionality. Developed and maintained custom Maya nodes  and tools in Python and C++.
 
 **Technical Animation Artist (Mid) / Character FX TD**
 _MPC Vancouver (September 2014 - March 2015)_<br />
 Designed, implemented and maintained cloth, hair and dynamics systems
 used to create visual effects for feature films. Used nCloth and proprietary
-hair solvers to created digital doubles of actors. Enhanced
+hair solvers to create digital doubles of actors. Enhanced
 character-to-environment and character-to-character interactions and
 deformations with the use of Maya and proprietary deformers.
 
@@ -36,7 +36,7 @@ deadlines. Designed, developed and maintained a job tracking and invoice
 webapp built on the Python framework Django.
 
 **Rigging Lead / Pipeline Lead / Animator**
-_ROBOREPAIR Short Film (May 2013 - July 2013)_<br />
+_ROBO+REPAIR Short Film (May 2013 - July 2013)_<br />
 Part of the DreamWorks Animation Summer Industry Course at Clemson
 University.
 Designed a full-featured, joint based deformation system for the rigid
@@ -49,7 +49,7 @@ pipeline by extending render-queue management scripts.
 _Clemson University (February 2013 - December 2013)_<br />
 Worked as part of a team of programmers to develop an automated and
 fluid production pipeline infrastructure. Scripted CineSync and rigging
-work-flows.
+workflows.
 
 **Character TD / Modeler / Animator**
 _"The Water is Always Bluer" Short Film (January 2012 - December 2012)_<br />
@@ -72,8 +72,10 @@ Magna Cum Laude
 
 Filmography
 -----------
++ In Production
+    - **ReBoot: The Guardian Code (Rigging)**
+    - **Spy Kids: Mission Critical (Rigging)**
 + 2017
-    - Unannounce TV Series (Rigging)
     - **Barbie: Video Game Hero (Rigging)**
     - **Surfs Up 2: Wave Mania (Rigging)**
     - **Monster Trucks (Character FX)**
@@ -141,3 +143,5 @@ Honors
 
 Phi Kappa Phi - East Tennessee State University (inducted 2009)<br />
 Epsilon Pi Tau - East Tennessee State University (inducted 2009)
+
+[Download Resume]({filename}/pdfs/sledge-resume.pdf)
