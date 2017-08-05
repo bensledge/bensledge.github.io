@@ -1,5 +1,5 @@
 Title: Resume
-Date: 2016-10-28 1:00
+Date: 2017-08-05 13:30
 Author: bensledge3d@gmail.com
 Slug: resume
 Status: published
@@ -12,8 +12,14 @@ Vancouver, BC Canada
 Professional History
 --------------------
 
+**Creature TD**
+_ILM Vancouver (April 2017 - present)_<br />
+Implemented and maintained cloth and simulation systems for digital double
+characters. Supported and maintained creature rigs. Used proprietary systems to
+craft in-shot creature simulations, including cloth and rigid body dynamics.
+
 **Rigging Artist**
-_Rainmaker Entertainment (March 2015 - present)_<br />
+_Rainmaker Studios (March 2015 - March 2017)_<br />
 Crafted character rigs for characters, props and sets using a
 proprietary, Python based rigging build system. Extended build system
 with custom modules. Created scripts used by animators to increase rig
@@ -33,7 +39,7 @@ Supervised a team of 8-10 designers working on the campus of Clemson
 University. Duties included hiring and training new designers, managing
 workflow efficiency and prioritizing projects and tasks to meet client
 deadlines. Designed, developed and maintained a job tracking and invoice
-webapp built on the Python framework Django.
+web app built on the Python framework Django.
 
 **Rigging Lead / Pipeline Lead / Animator**
 _ROBO+REPAIR Short Film (May 2013 - July 2013)_<br />
@@ -73,9 +79,12 @@ Magna Cum Laude
 Filmography
 -----------
 + In Production
+    - **A Wrinkle in Time (Creature TD)**
     - **ReBoot: The Guardian Code (Rigging)**
     - **Spy Kids: Mission Critical (Rigging)**
+    - **Barbie Dolphin Magic (Rigging)**
 + 2017
+    - **Transformers: The Last Knight (Creature TD)**
     - **Barbie: Video Game Hero (Rigging)**
     - **Surfs Up 2: Wave Mania (Rigging)**
     - **Monster Trucks (Character FX)**

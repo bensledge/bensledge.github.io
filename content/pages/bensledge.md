@@ -1,5 +1,5 @@
 Title: About Me
-Date: 2016-07-18 13:00
+Date: 2017-08-05 13:30
 Author: Ben Sledge
 Slug: ben-sledge
 Status: published
@@ -25,7 +25,8 @@ and plug-in development (in both Python and C++).
 
 For my Master's thesis at Clemson University in 2014, I developed an
 object-oriented, modular rigging system in PyMel. The source code is availble
-on GitHub.
+on [GitHub](https://github.com/bensledge/dparigbuilder).
 
 Since gradutating in 2014, I've been working on artistic and technical elements
-of characters for films at MPC and Rainmaker Entertainment in Vancouver.
+of characters for films at MPC, Rainmaker Studios and Industrial Light & Magic
+in Vancouver, British Columbia.
