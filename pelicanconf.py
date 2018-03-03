@@ -14,7 +14,14 @@ PLUGINS = ['sitemap',
            'liquid_tags.vimeo',
            ]
 
-MD_EXTENSIONS = ["codehilite(css_class=highlight)", "extra", "toc"]
+MARKDOWN = {'extension_configs': {
+                'markdown.extensions.codehilite': {'css_class': 'highlight'},
+                'markdown.extensions.extra': {},
+                'markdown.extensions.meta': {},
+                'markdown.extensions.toc': {},
+            },
+            'output_format': 'html5',
+}
 
 PATH = 'content'
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
