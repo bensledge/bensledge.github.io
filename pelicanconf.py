@@ -6,7 +6,7 @@ AUTHOR = u'Ben Sledge'
 SITENAME = u'Ben Sledge | 3D Technical Artist'
 SITEURL = 'http://0.0.0.0:8000'
 
-PLUGIN_PATH = ['../pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['sitemap',
            # 'thumbnailer',
            'liquid_tags.img',
@@ -29,7 +29,7 @@ THEME = '../Flex'
 SITELOGO = '/images/bensledge.jpg'
 SITETITLE = 'Ben Sledge'
 SITESUBTITLE = 'Rigging and Technical Artist'
-COPYRIGHT_YEAR = '2010 - 2016'
+COPYRIGHT_YEAR = '2010 - 2018'
 MAIN_MENU = True
 MENUITEMS = (('Archive', '/archives.html'),
              ('Sitemap', '/sitemap.xml'),)

@@ -93,3 +93,4 @@ ENV/
 
 # pelican stuff
 *.pid
+output/

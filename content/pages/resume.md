@@ -25,7 +25,7 @@ proprietary, Python based rigging build system. Extended build system
 with custom modules. Created scripts used by animators to increase rig
 functionality. Developed and maintained custom Maya nodes  and tools in Python and C++.
 
-**Technical Animation Artist (Mid) / Character FX TD**
+**Technical Animation Artist / Character FX TD**
 _MPC Vancouver (September 2014 - March 2015)_<br />
 Designed, implemented and maintained cloth, hair and dynamics systems
 used to create visual effects for feature films. Used nCloth and proprietary
@@ -79,11 +79,13 @@ Magna Cum Laude
 Filmography
 -----------
 + In Production
+    - **Unannounced Feature Film Project (Creature TD)**
+    <!--- **Spy Kids: Mission Critical (Rigging)**-->
++ 2018
+    <!--- **ReBoot: The Guardian Code (Rigging)**-->
     - **A Wrinkle in Time (Creature TD)**
-    - **ReBoot: The Guardian Code (Rigging)**
-    - **Spy Kids: Mission Critical (Rigging)**
-    - **Barbie Dolphin Magic (Rigging)**
 + 2017
+    - **Barbie Dolphin Magic (Rigging)**
     - **Transformers: The Last Knight (Creature TD)**
     - **Barbie: Video Game Hero (Rigging)**
     - **Surfs Up 2: Wave Mania (Rigging)**
