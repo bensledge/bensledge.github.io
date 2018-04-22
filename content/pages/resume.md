@@ -1,6 +1,6 @@
 Title: Resume
-Date: 2017-08-05 13:30
-Author: bensledge3d@gmail.com
+Date: 2018-04-22 13:30
+Author: Ben Sledge
 Slug: resume
 Status: published
 
@@ -23,7 +23,7 @@ _Rainmaker Studios (March 2015 - March 2017)_<br />
 Crafted character rigs for characters, props and sets using a
 proprietary, Python based rigging build system. Extended build system
 with custom modules. Created scripts used by animators to increase rig
-functionality. Developed and maintained custom Maya nodes  and tools in Python and C++.
+functionality. Developed and maintained custom Maya nodes and tools in Python and C++.
 
 **Technical Animation Artist / Character FX TD**
 _MPC Vancouver (September 2014 - March 2015)_<br />
@@ -69,20 +69,23 @@ Academic History
 **Clemson University**
 _Clemson, SC (2014)_<br />
 Master of Fine Arts Degree in Digital Production Arts
+Thesis: "An Automated Build Script for Articulated Characters" (Dr. Tim Davis,
+Chair)
 School of Computing
 
 **East Tennessee State University**
 _Johnson City, TN (2010)_<br />
 Bachelor of Science Degree in Digital Media, Minor in Computer Science
+College of Business & Technology
 Magna Cum Laude
 
-Filmography
------------
+Selected Filmography
+--------------------
 + In Production
     - **Unannounced Feature Film Project (Creature TD)**
-    <!--- **Spy Kids: Mission Critical (Rigging)**-->
 + 2018
-    <!--- **ReBoot: The Guardian Code (Rigging)**-->
+    - **Spy Kids: Mission Critical (Rigging)**
+    - **ReBoot: The Guardian Code (Rigging)**
     - **A Wrinkle in Time (Creature TD)**
 + 2017
     - **Barbie Dolphin Magic (Rigging)**
@@ -132,10 +135,10 @@ rendering and animation. Possess a fundamental understanding of the
 Maya to Unreal game engine work flow.
 
 **Technologies**<br />
-Operating Systems - Windows, Linux and Mac OS X
-Software - Autodesk Maya & Mudbox, Nuke, Marvelous Designer, CineSync,
-Adobe Photoshop, Illustrator and Premiere
-Programming - Python, MEL Script, C++, git and SVN
+Operating Systems - Windows, Linux, and Mac OS X
+Software - Maya, Mudbox, Nuke, Marvelous Designer, CineSync,
+Photoshop, Illustrator, and Premiere
+Programming - Python, MEL Script, C++, git, Perforce, and SVN
 
 Leadership
 ----------

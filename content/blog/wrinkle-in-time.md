@@ -1,11 +1,10 @@
 Title: A Wrinkle in Time
-Date: 2018-03-10 13:30
+Date: 2018-04-22 13:30
 Author: Ben Sledge
 Category: Projects
 Tags: ILM, video
 Slug: wrinkle-in-time
-Status: draft
-<!--Status: published-->
+Status: published
 
 {% img {filename}/images/wrinkleInTime.jpg 500 A Wrinkle In Time %}
 
